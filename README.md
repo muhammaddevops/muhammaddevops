@@ -1,6 +1,6 @@
 # Muhammad Tumi
 
-**Senior AI & Full-Stack Engineer** — Dubai, UAE
+**Senior Forward Deployed Engineer** — Dubai, UAE
 
 I build production voice AI. Currently a Senior Forward Deployed Engineer working on [InDebted](https://indebted.co) voice AI product deployed in the UAE and Australia.
 
